@@ -1,0 +1,5 @@
+- 👋 Hi, I’m sina salimi
+- 👀 I’m interested in coding and hacking 
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on Game Show YT Channel
+- 📫 How to reach me on sina.salimi.2020@gmail.com
